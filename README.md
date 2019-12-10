@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://yhu0304.github.io](http://yhu0304.github.io "")
+地址：[https://yhu0304.github.io](https://yhu0304.github.io "")
 
 ### 安装说明
 
